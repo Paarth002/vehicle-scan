@@ -3,7 +3,7 @@
 
 Team members:
 
-Vishnu V Jaddipal (Team Leader)
-Pranay D Kumar
-Atish Kumar
-Nilesh Kumar
+1) Vishnu V Jaddipal (Team Leader) <br/>
+2) Pranay D Kumar <br/>
+3) Atish Kumar <br/>
+4) Nilesh Kumar <br/>

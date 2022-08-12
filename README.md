@@ -1,8 +1,7 @@
 # Vehicle License Plate and Logo Scanner
 ## IITISOC '22 project- By AI/ML Team-1
 
-Details: The model detects number plate from the vehicle image. Then OCR is applied to the number plate for recognizing alpha-numeric characters. <br />
-Then, logo is detected from the image and deep learning model is applied to classify the logo into one of 8 classes (Ex: BMW, etc.)
+Details: The model detects number plate from the vehicle image. Then OCR is applied to the number plate for recognizing alpha-numeric characters. Then, logo is detected from the image and deep learning model is applied to classify the logo into one of 8 classes (Ex: BMW, etc.)
 
 Team members:
 
